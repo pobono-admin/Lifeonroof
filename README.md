@@ -8,4 +8,4 @@
 <p>KEEP THE SEED AND BARRIED IT</p>
 
 <h3>RULE 3</h3>
-<p>WAITING TO EAT</p>
+<p>WAITE TO EAT</p>
