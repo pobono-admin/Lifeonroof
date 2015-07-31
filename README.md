@@ -5,7 +5,7 @@
 
 
 <h3>RULE 2</h3>
-<p>KEEP THE SEED AND BARRIED IT</p>
+<p>KEEP THE SEED AND BURY IT</p>
 
 <h3>RULE 3</h3>
 <p>WAITE TO EAT</p>
